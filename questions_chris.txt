@@ -1,11 +1,22 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
 
+cd: moves into a new directory
+ls: see contents of directory you are in
+cp: copy
+My computer terminal is in Zshell (zsh)
+
 2. Do you have pets? What kind?
+
+I have one dog. He is a pug.
 
 3. If you run across an error, what would your first course of action be?
 
+Google
+
 4. Funniest thing that happened to you in high school.
+
+Missed a pair of finals because I forgot it was finals week.
 
 5. What is a python script? (Keep it simple)
 
-
+Lines of code that perform a task.
